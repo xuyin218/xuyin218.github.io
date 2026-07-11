@@ -18,9 +18,9 @@ redirect_from:
 # <font size=6>Yin Xu</font>
 
 <span class='anchor' id='about-me'></span>
-Hi, there. I am Yin Xu (徐殷), I am an Associate Researcher at the [Department of Computer Science and Technology](https://cs.ustc.edu.cn/main.htm), [University of Science and Technology of China](https://ustc.edu.cn/) (USTC). I am also affiliated with the [State Key Laboratory of Cognitive Intelligence](https://cogskl.iflytek.com/) at USTC, supervised by Prof. [Mingjun Xiao](http://staff.ustc.edu.cn/~xiaomj/indexEN.html). I am also lucky to have opportunities to collaborate with Prof. [Jie Wu](https://cis.temple.edu/~wu/) (Professor, Temple University, Fellow of IEEE/AAAS), [Haisheng Tan](http://staff.ustc.edu.cn/~hstan/home.html)  (Professor, USTC) , [An Liu](http://web.suda.edu.cn/anliu/) (Professor, Soochow University), [Sheng Zhang](https://cs.nju.edu.cn/sheng/index.htm)  (Associate Professor, Nanjing University) , and [Guoju Gao](http://web.suda.edu.cn/ggj/) (Associate Professor, Soochow University).
+Hi, there. I am Yin Xu (徐殷), I am an Associate Researcher at the [Department of Computer Science and Technology](https://cs.ustc.edu.cn/main.htm), [University of Science and Technology of China](https://ustc.edu.cn/) (USTC). I am also affiliated with the [State Key Laboratory of Cognitive Intelligence](https://cogskl.iflytek.com/) at USTC, supervised by Prof. [Mingjun Xiao](http://staff.ustc.edu.cn/~xiaomj/indexEN.html). I am also lucky to have opportunities to collaborate with Prof. [Jie Wu](https://cis.temple.edu/~wu/) (Professor, Temple University, Fellow of IEEE/AAAS), [Haisheng Tan](http://staff.ustc.edu.cn/~hstan/home.html)  (Professor, USTC), [An Liu](http://web.suda.edu.cn/anliu/) (Professor, Soochow University), [Sheng Zhang](https://cs.nju.edu.cn/sheng/index.htm)  (Associate Professor, Nanjing University), and [Guoju Gao](http://web.suda.edu.cn/ggj/) (Associate Professor, Soochow University).
 
-My research interests include mobile computing systems (e.g., Crowdsensing and data trading), privacy preservation (e.g., Differential privacy and federated learning), and game theory (e.g., Auction and Stackelberg game). I have published several academic papers in top-tier international conferences and journals, including IEEE INFOCOM, IEEE Transactions on Mobile Computing, IEEE Transactions on Industrial Informatics, IEEE Internet of Things Journal, etc.
+My research interests include LLMs and Agentic AI (e.g., Multi-agent collaboration), mobile computing systems (e.g., Crowdsensing and data trading), privacy preservation (e.g., Differential privacy and federated learning), big data (e.g., Cross-Domain data management), and game theory (e.g., Auction and Stackelberg game). I have published several academic papers in top-tier international conferences and journals, including IEEE INFOCOM, IEEE Transactions on Mobile Computing, IEEE Transactions on Industrial Informatics, IEEE Internet of Things Journal, etc.
 
 **We warmly welcome diligent, self-disciplined, and proactive undergraduate and graduate students to join our warm team! If you are interested in my research, please don't hesitate to contact me.**
 
@@ -49,7 +49,7 @@ My research interests include mobile computing systems (e.g., Crowdsensing and d
 
 ## Journals
 - <span style="font-family: Arial; font-size:medium;"><a style="color: #ff0000;"><b>[TPDS]</b></a> **Yin Xu**, Mingjun Xiao, Jie Wu, and He Sun. ''Privacy Preserving Task Push in Spatial Crowdsourcing with Unknown Popularity. IEEE Transactions on Parallel and Distributed Systems, 2024.
-- <span style="font-family: Arial; font-size:medium;"><a style="color: #ff0000;"><b>[TMC]</b></a> **Yin Xu**, Mingjun Xiao,Yu Zhu, Jie Wu, Sheng Zhang, and Jinrui Zhou. "AoI-guaranteed Incentive Mechanism for Mobile Crowdsensing with Freshness Concerns'', IEEE Transactions on Mobile Computing, June 13, 2023.
+- <span style="font-family: Arial; font-size:medium;"><a style="color: #ff0000;"><b>[TMC]</b></a> **Yin Xu**, Mingjun Xiao, Yu Zhu, Jie Wu, Sheng Zhang, and Jinrui Zhou. "AoI-guaranteed Incentive Mechanism for Mobile Crowdsensing with Freshness Concerns'', IEEE Transactions on Mobile Computing, June 13, 2023.
 - <span style="font-family: Arial; font-size:medium;"><a style="color: #ff0000;"><b>[TMC]</b></a> **Yin Xu**, Mingjun Xiao, Jie Wu, Haisheng Tan, and Guoju Gao. ''A Personalized Privacy Preserving Mechanism for Crowdsourced Federated Learning'', IEEE Transactions on Mobile Computing, January 17, 2023.
 - <span style="font-family: Arial; font-size:medium;"><a style="color: #ff0000;"><b>[TMC]</b></a> **Yin Xu**, Mingjun Xiao, Jie Wu, Sheng Zhang, and Guoju Gao. ''Incentive Mechanism for Spatial Crowdsourcing with Unknown Social-Aware Workers: A Three-Stage Stackelberg Game Approach'', IEEE Transactions on Mobile Computing, vol. 22, no. 8, pp. 4698-4713, 1 Aug. 2023.
 - <span style="font-family: Arial; font-size:medium;"><a style="color: #ff0000;"><b>[TII]</b></a> **Yin Xu**, Mingjun Xiao, Haisheng Tan, An Liu, Guoju Gao, and Zhaoyang Yan. ''Incentive Mechanism for Differentially Private Federated Learning in Industrial Internet of Things'', IEEE Transactions on Industrial Informatics, Oct. 2022, 18(10): 6927-6939.
@@ -59,6 +59,10 @@ My research interests include mobile computing systems (e.g., Crowdsensing and d
 - <span style="font-family: Arial; font-size:medium;"><a style="color: #ff0000;"><b>[TMC]</b></a> He Sun, Mingjun Xiao, **Yin Xu**, Guoju Gao, and Shu Zhang. “Crowdsensing Data Trading for Unknown Market: Privacy, Stability, and Conflicts”, IEEE Transactions on Mobile Computing , DOI: 10.1109/TMC.2024.3399816, 2024. 
 
 ## Conferences
+- <span style="font-family: Arial; font-size:medium;"><a style="color: #ff0000;"><b>[KDD'26]</b></a> Chuang Tang, Chenhao Lin, **Yin Xu***, Hao Wang, Jinrui Zhou, Xin Li, Mingjun Xiao, Enhong Chen. "MACReD: A Multi-Agent Collaborative Reasoning Framework for Reaction Diagram Parsing", ACM KDD, Jeju, Korea, August 9-13, 2026.
+- <span style="font-family: Arial; font-size:medium;"><a style="color: #ff0000;"><b>[INFOCOM'26]</b></a> Jinrui Zhou, **Yin Xu***, Haotian Xu and Mingjun Xiao. "Age-of-Information-Aware Mobile Crowdsensing for Uncertain Event Capture", IEEE INFOCOM, Tokyo, Japan, May 18-21, 2026.
+- - <span style="font-family: Arial; font-size:medium;"><a style="color: #ff0000;"><b>[DASFAA'26]</b></a> Xiaochen Yang; **Yin Xu***; Xiaobei Wang; Hao Wang; Zhida Jiang; Zhen Chen; Zhaolong Xing. "Beyond Static Representation: Coarse-to-Fine Dynamic Latent Reasoning for Sequential Recommendation", IEEE DASFAA, Jeju, South Korea, April 27-30, 2026.
+- - <span style="font-family: Arial; font-size:medium;"><a style="color: #ff0000;"><b>[ICCCN'25]</b></a> Chenlin Ding, Mingjun Xiao, **Yin Xu***, Jie Wu. "Federated Learning Framework with Personalized Model Compression and Privacy Protection", IEEE ICCCN, Tokyo, Japan, August 4-8, 2025. 
 - <span style="font-family: Arial; font-size:medium;"><a style="color: #ff0000;"><b>[INFOCOM'25]</b></a> Jinrui Zhou, Yu Zhao, **Yin Xu***, Mingjun Xiao, Jie Wu, and Sheng Zhang. "PSFL: Parallel-Sequential Federated Learning with Convergence Guarantees", IEEE INFOCOM, London, United Kingdom, May 19-22, 2025. 
 - <span style="font-family: Arial; font-size:medium;"><a style="color: #ff0000;"><b>[ICDE'25]</b></a> Xichong Zhang, Haotian Xu, **Yin Xu**, Mingjun Xiao, Jie Wu, and Jinrui Zhou. "Online Federated Learning on Distributed Unknown Data Using UAVs", IEEE ICDE, Hong Kong, China, May 19-23, 2025.
 - <span style="font-family: Arial; font-size:medium;"><a style="color: #ff0000;"><b>[ICDE'24]</b></a> **Yin Xu**, Xichong Zhang, Mingjun Xiao, Jie Wu, An Liu, and Sheng Zhang. ''Joint Mobile Edge Caching and Pricing: A Mean-Field Game Approach", IEEE ICDE, May 13-16, 2024. 
@@ -116,7 +120,7 @@ My research interests include mobile computing systems (e.g., Crowdsensing and d
 <div class='school-box'>
 <div><img src='images/ustc.png' alt="sym" width="80"></div>
 <div class='school-box-text' markdown="1">
-2021.09 - 2024.06 (Expected), Ph.D. Student.<br>Major: Computer Science and Technology/Information Security.
+2021.09 - 2024.06, Ph.D. Student.<br>Major: Computer Science and Technology/Information Security.
 
 School of Computer Science and Technology, University of Science and Technology of China (USTC), Hefei, Anhui.
 </div>
@@ -156,7 +160,8 @@ School of Computer Science and Technology, Anhui University (AHU), Hefei, Anhui.
 # <img src="images/agreement.png" alt="agreement" style="zoom:40%;" /> <font size=6>Projects</font>
 
 <span class='anchor' id='-Project'></span>
-
+- Project of Young Scientists Fund of the National Natural Science Foundation of China, Research on Data-Driven Personalized Federated Fine-Tuning Methods for Domain-Specific Large Models, 2026.01-2027.12: **Project Leader**
+- Project of Young Scientists Fund of the National Natural Science Foundation of China, Research on Privacy Protection for Cross-domain Data Sharing and Circulation, 2025.01-2029.12: **Core Member**
 - National Innovation and Entrepreneurship Program for College Students in China, Research on Secure Double Auction Mechanism Based on Homomorphic Encryption and Sorting Networks, 2017.05-2018.05: **Project Leader**
 - Project of National Natural Science Foundation of China, Research on Intelligent and Trusted Cooperation Mechanism of Mobile Group Intelligence Computing based on blockchain, 2022.01-2025.12: **Core Member**
 - Technological Innovation 2030-"New Generation Artificial Intelligence" Major Project, Research on Group Intelligent Collaborative Decision-making and Continuous Control Methods, 2019.12-2022.12: **Core Member**
