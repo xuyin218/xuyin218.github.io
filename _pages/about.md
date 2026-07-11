@@ -31,8 +31,10 @@ My research interests include LLMs and Agentic AI (e.g., Multi-agent collaborati
 # <img src="images/speaker.png" alt="speaker" style="zoom: 27%;" /> <font size=6>News</font>
 
 <span class='anchor' id='-news'></span>
-
-- [2024.05] <img src="images/confetty.png" alt="confetty" style="zoom:50%;" /><img src="images/confetty.png" alt="confetty" style="zoom:50%;" />  I won the One paper is accepted by IEEE TMC!
+- [2026.02] <img src="images/confetty.png" alt="confetty" style="zoom:50%;" /><img src="images/confetty.png" alt="confetty" style="zoom:50%;" /> One paper is accepted by ACM KDD!
+- [2026.02] <img src="images/confetty.png" alt="confetty" style="zoom:50%;" /><img src="images/confetty.png" alt="confetty" style="zoom:50%;" /> One paper is accepted by ACM DASFAA!
+- [2025.12] <img src="images/confetty.png" alt="confetty" style="zoom:50%;" /><img src="images/confetty.png" alt="confetty" style="zoom:50%;" /> One paper is accepted by IEEE INFOCOM!
+- [2024.05] <img src="images/confetty.png" alt="confetty" style="zoom:50%;" /><img src="images/confetty.png" alt="confetty" style="zoom:50%;" /> One paper is accepted by IEEE TMC!
 - [2024.03] <img src="images/confetty.png" alt="confetty" style="zoom:50%;" /><img src="images/confetty.png" alt="confetty" style="zoom:50%;" />  I won the One paper is accepted by IEEE ICDE!
 - [2023.10] <img src="images/confetty.png" alt="confetty" style="zoom:50%;" /><img src="images/confetty.png" alt="confetty" style="zoom:50%;" />  I won the National Scholarship!!!
 - [2023.10] <img src="images/confetty.png" alt="confetty" style="zoom:50%;" /><img src="images/confetty.png" alt="confetty" style="zoom:50%;" />  The paper accepted in MASS 2023 was awarded Best Paper!!! [[link]](https://cis.temple.edu/ieeemass2023/)
