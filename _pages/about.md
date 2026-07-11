@@ -48,8 +48,8 @@ My research interests include LLMs and Agentic AI (e.g., Multi-agent collaborati
 <span class='anchor' id='-publications'></span>
 
 ## Journals
-- <span style="font-family: Arial; font-size:medium;"><a style="color: #ff0000;"><b>[TII]</b></a> **Yin Xu**, Mingjun Xiao, Jie Wu, Guoju Gao, and Datian Li. ''Enhancing Decentralized Federated Learning with Model Pruning and Adaptive Communication'', IEEE Transactions on Industrial Informatics, 2025.
-- <span style="font-family: Arial; font-size:medium;"><a style="color: #ff0000;"><b>[TPDS]</b></a> **Yin Xu**, Mingjun Xiao, Jie Wu, and He Sun. ''Privacy Preserving Task Push in Spatial Crowdsourcing with Unknown Popularity. IEEE Transactions on Parallel and Distributed Systems, 2024.
+- <span style="font-family: Arial; font-size:medium;"><a style="color: #ff0000;"><b>[TII]</b></a> **Yin Xu**, Mingjun Xiao, Jie Wu, Guoju Gao, and Datian Li. ''Enhancing Decentralized Federated Learning with Model Pruning and Adaptive Communication'', IEEE Transactions on Industrial Informatics, vol. 21, no. 1, pp. 70-84, Jan. 2025.
+- <span style="font-family: Arial; font-size:medium;"><a style="color: #ff0000;"><b>[TPDS]</b></a> **Yin Xu**, Mingjun Xiao, Jie Wu, and He Sun. ''Privacy Preserving Task Push in Spatial Crowdsourcing with Unknown Popularity. IEEE Transactions on Parallel and Distributed Systems,  vol. 35, no. 11, pp. 2039-2053, Nov. 2024.
 - <span style="font-family: Arial; font-size:medium;"><a style="color: #ff0000;"><b>[JCST]</b></a> **Yin Xu**, Mingjun Xiao, Chen Wu, Jie Wu,  Jinrui Zhou, and He Sun. ''Age-of-Information-Aware Federated Learning''. Journal of Computer Science and Technology, 2024.
 - <span style="font-family: Arial; font-size:medium;"><a style="color: #ff0000;"><b>[TMC]</b></a> **Yin Xu**, Mingjun Xiao, Yu Zhu, Jie Wu, Sheng Zhang, and Jinrui Zhou. "AoI-guaranteed Incentive Mechanism for Mobile Crowdsensing with Freshness Concerns'', IEEE Transactions on Mobile Computing, June 13, 2023.
 - <span style="font-family: Arial; font-size:medium;"><a style="color: #ff0000;"><b>[TMC]</b></a> **Yin Xu**, Mingjun Xiao, Jie Wu, Haisheng Tan, and Guoju Gao. ''A Personalized Privacy Preserving Mechanism for Crowdsourced Federated Learning'', IEEE Transactions on Mobile Computing, January 17, 2023.
@@ -103,6 +103,8 @@ My research interests include LLMs and Agentic AI (e.g., Multi-agent collaborati
 
 <span class='anchor' id='-honors-and-awards'></span>
 
+- ACM Outstanding Doctoral Dissertation Award of China (2024)
+- Outstanding Doctoral Dissertation Award of the Anhui Computer Society (2024)
 - National Scholarship at USTC (2023.10)
 - Huawei Scholarship at USTC (2022.10)
 - Suzhou Industrial Park Scholarship at USTC (2022.3)
