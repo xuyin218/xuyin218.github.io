@@ -1,4 +1,3 @@
-<img width="1148" height="66" alt="image" src="https://github.com/user-attachments/assets/647ca79f-b400-48f3-bb0c-92b346290013" />---
 permalink: /
 title: "YinXu-Homepage"
 excerpt: ""
